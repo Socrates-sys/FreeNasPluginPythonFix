@@ -27,4 +27,12 @@ First of all: sorry for my bad english.
 ![7](https://user-images.githubusercontent.com/59617701/71915268-70732c00-318c-11ea-8454-b5a43d7e88a6.png)
 ### 8- Check for updates after u should see search plugins
 ![8](https://user-images.githubusercontent.com/59617701/71915269-70732c00-318c-11ea-9d25-a17ddc958381.png)
-### 9- it took my days to find solution. if you want, you can buy a coffee to me. Thanks https://www.patreon.com/socrates77 Btc adress : 1AHsQY6HsPQX18SYBZ3aEc9K2mJAdwt52H
+### 9- it took my days to find solution. if you want, you can buy a coffee to me. Thanks https://www.patreon.com/socrates77 
+Btc adress : 1AHsQY6HsPQX18SYBZ3aEc9K2mJAdwt52H
+![qrcode](https://user-images.githubusercontent.com/59620795/71922756-9d2f3f80-319c-11ea-8d27-1a5f0a694506.png)
+
+Ripple XRP Adress:
+tag : 106241538
+
+adress : rEb8TK3gBgk5auZkwc6sHnwrGVJH8DuaLh
+
