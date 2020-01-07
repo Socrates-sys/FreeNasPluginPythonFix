@@ -27,4 +27,4 @@ First of all: sorry for my bad english.
 ![7](https://user-images.githubusercontent.com/59617701/71915268-70732c00-318c-11ea-8454-b5a43d7e88a6.png)
 ### 8- Check for updates after u should see search plugins
 ![8](https://user-images.githubusercontent.com/59617701/71915269-70732c00-318c-11ea-9d25-a17ddc958381.png)
-### 9- it took my days to find solution. if you want, you can buy a coffee to me. Thanks https://www.patreon.com/socrates77
+### 9- it took my days to find solution. if you want, you can buy a coffee to me. Thanks https://www.patreon.com/socrates77 Btc adress : 1AHsQY6HsPQX18SYBZ3aEc9K2mJAdwt52H
